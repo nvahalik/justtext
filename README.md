@@ -4,6 +4,8 @@ A bare-bones macOS scratch editor that pipes its buffer through shell commands. 
 
 The whole app is ~75 lines of SwiftUI in a single file (`JustText.swift`). No Xcode project, no dependencies.
 
+![Just Text](readme.png)
+
 ## Features
 
 - **Full-window monospaced editor** — nothing else in the way.
